@@ -345,7 +345,7 @@ figcaption a:link, figcaption a:visited {
   float:left;
   border-radius: 10px;
   max-width:900px;
-  margin-right: 2rem;
+  margin-left: 100px;
 }
 
 .photocastle figcaption {
