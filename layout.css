@@ -354,18 +354,6 @@ figcaption a:link, figcaption a:visited {
 }
 
 
-.photocastle figcaption {
-  font-size: 0.9em;
-  font-style: italic;
-  color: #444;
-  margin-top: 0.5em;
-}
-
-.photocastle a {
-  color: #444;
-  text-decoration: none;
-}
-
 .photocastle a:visited {
   color: #444;
 }
