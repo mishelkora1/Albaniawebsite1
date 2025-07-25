@@ -382,4 +382,5 @@ figcaption a:link, figcaption a:visited {
     border-radius: 10px;
     margin-left: -30px; 
     display: block;
+    margin-top: 20px;
 }
