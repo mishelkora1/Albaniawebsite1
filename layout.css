@@ -306,7 +306,8 @@ h2 {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  margin-top: 60px;
+  gap: 30px;
+  min-height: 300px;
 }
 
 .intro {
@@ -314,10 +315,11 @@ h2 {
   font-size: 1.3rem;
   margin-right: -40px;
   margin-bottom: 0.5rem;
+ flex:1;
 }
 
 aside {
-  width: 35%;
+  width: 300px;
   text-align: right;
 }
 
@@ -325,7 +327,7 @@ aside {
   font-size: 1.1rem;
   width: 60%;
   color: #004080;
-  margin-top: 0;
+  margin-top: 40px;
 }
 
 ul {
