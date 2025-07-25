@@ -302,14 +302,6 @@ h2 {
   font-family:Verdana, Geneva, Tahoma, sans-serif ;
 }
 
-.intros {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  margin-top: 60px;
-  border: 1px solid red;
-}
-
 .intro {
   width: 80%;
   font-size: 1.3rem;
