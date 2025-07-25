@@ -308,13 +308,12 @@ h2 {
   align-items: flex-start;
   margin-top: 60px;
   margin-bottom: 60px;
-  margin-left: 40px;
 }
 
 .intro {
   width: 60%;
   font-size: 1.3rem;
-
+  margin-right: -40px;
 }
 
 aside {
@@ -379,10 +378,8 @@ figcaption a:link, figcaption a:visited {
 
 
 .photointro {
-    width:600px;
+    width: 250px;
     border-radius: 10px;
-    margin-top: 30px;
-    margin-left: 60px;
-    display:block;
+    margin-left: -40px; 
+    display: block;
 }
-
