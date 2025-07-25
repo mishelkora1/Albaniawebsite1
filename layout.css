@@ -406,3 +406,19 @@ figcaption a:link, figcaption a:visited {
   flex: 2; 
 }
 
+.introsw {
+  display: flex;
+  align-items: flex-start; 
+  gap: 2rem; 
+  padding: 20px;
+}
+
+.introsw aside {
+  width: 250px; 
+  margin-left: 1rem; 
+}
+
+.introsw > div {
+  flex: 1; 
+}
+    
