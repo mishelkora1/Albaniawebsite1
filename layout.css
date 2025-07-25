@@ -391,11 +391,11 @@ figcaption a:link, figcaption a:visited {
 }
 
 .side-image {
-  width: 900px;
+  width: 600px;
   height: auto;
   display: block;
-  margin-top: 100px;
-  margin-left: 200px;
+  margin-top: 0px;
+  margin-left: 0px;
 }
 
 .main-layout {
