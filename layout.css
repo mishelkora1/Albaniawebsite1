@@ -340,19 +340,28 @@ figcaption a:link, figcaption a:visited {
 
 
 .photocastle {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
   margin: 1.5em auto;
-  max-width: 100%;
+  max-width: 900px; 
 }
 
 .photocastle img {
-  float: left;
-  width: 900px; 
-  margin-left: 400px;  
-  margin-top: 150px;
+  width: 100%;
   border-radius: 10px;
 }
 
+.photocastle figcaption {
+  margin-top: 0.5em;
+  font-size: 0.95em;
+  color: #333;
+}
+
+.photocastle a {
+  color: #444;
+  text-decoration: none;
+}
 
 .photocastle a:visited {
   color: #444;
