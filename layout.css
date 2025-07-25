@@ -344,3 +344,38 @@ figcaption a:link, figcaption a:visited {
   color: inherit;
   text-decoration: none;
 }
+
+
+.photocastle {
+  text-align: center;
+  margin: 1.5em auto;
+  max-width: 100%;
+}
+
+.photocastle img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.photocastle figcaption {
+  font-size: 0.9em;
+  font-style: italic;
+  color: #444;
+  margin-top: 0.5em;
+}
+
+.photocastle a {
+  color: #444;
+  text-decoration: none;
+}
+
+.photocastle a:visited {
+  color: #444;
+}
+
+.photocastle a:hover {
+  color: #000;
+  text-decoration: underline;
+}
