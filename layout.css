@@ -348,8 +348,8 @@ figcaption a:link, figcaption a:visited {
 }
 
 .photocastle img {
-  width: 100%;
   border-radius: 10px;
+  max-width:900px;
 }
 
 .photocastle figcaption {
