@@ -8,13 +8,6 @@ body{
   font-family: "Poppins" , Helvetica, sans-serif;
 }
 
-.side-image {
-  float: left;
-  width: 900px; 
-  margin-left: 400px;  
-  margin-top: 150px;
-  border-radius: 10px;
-}
 
 
 
@@ -353,11 +346,13 @@ figcaption a:link, figcaption a:visited {
 }
 
 .photocastle img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
+  float: left;
+  width: 900px; 
+  margin-left: 400px;  
+  margin-top: 150px;
+  border-radius: 10px;
 }
+
 
 .photocastle figcaption {
   font-size: 0.9em;
@@ -377,5 +372,5 @@ figcaption a:link, figcaption a:visited {
 
 .photocastle a:hover {
   color: #000;
-  text-decoration: underline;
+  text-decoration: none;
 }
