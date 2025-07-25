@@ -322,7 +322,7 @@ aside {
 }
 
 .listsec {
-  margin-top: 40px;
+  margin-top: 20px;
   font-size: 1.1rem;
   width: 60%;
   color: #004080;
@@ -378,7 +378,7 @@ figcaption a:link, figcaption a:visited {
 
 
 .photointro {
-    width: 250px;
+    width: 150px;
     border-radius: 10px;
     margin-left: -40px; 
     display: block;
