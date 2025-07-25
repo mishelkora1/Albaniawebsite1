@@ -353,6 +353,7 @@ figcaption a:link, figcaption a:visited {
   margin-top: 0.5em;
   font-size: 0.95em;
   color: #333;
+  margin-left:200px;
 }
 
 .photocastle a {
@@ -397,7 +398,7 @@ figcaption a:link, figcaption a:visited {
   height: auto;
   display: block;
   margin-top: 100px;
-  margin-left: 100px;
+  margin-left: 200px;
 }
 
 .main-layout {
