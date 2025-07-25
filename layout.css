@@ -310,14 +310,14 @@ h2 {
 aside {
   width: 35%;
   text-align: right;
-  margin-right: -10px;
+  margin-left: 20px;
 }
 
 .listsec {
   font-size: 1.1rem;
   width: 60%;
   color: #004080;
-  margin-top: -400px;
+  margin-top: -350px;
 }
 
 ul {
