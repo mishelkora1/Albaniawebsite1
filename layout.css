@@ -307,6 +307,7 @@ h2 {
   justify-content: space-between;
   align-items: flex-start;
   margin-top: 60px;
+  border: 1px solid red;
 }
 
 .intro {
@@ -323,6 +324,9 @@ aside {
   font-size: 1.1rem;
   width: 60%;
   color: #004080;
+  margin-top: 0;
+  padding-top: 0;
+  border: 1px solid blue;
 }
 
 ul {
