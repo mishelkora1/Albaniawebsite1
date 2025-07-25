@@ -97,6 +97,7 @@ footer {
   margin-left: auto;
   margin-right: 23rem;
   margin-top: 7rem;
+    overflow:hidden;
 }
 
 
@@ -349,11 +350,14 @@ figcaption a:link, figcaption a:visited {
 }
 
 .photocastle img {
+  float:left;
   border-radius: 10px;
   max-width:900px;
+  margin-right: 2rem;
 }
 
 .photocastle figcaption {
+  clear:left;
   margin-top: 0.5em;
   font-size: 0.95em;
   color: #333;
