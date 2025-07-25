@@ -317,7 +317,7 @@ aside {
   font-size: 1.1rem;
   width: 60%;
   color: #004080;
-  margin-top: -200px;
+  margin-top: -400px;
 }
 
 ul {
@@ -401,6 +401,7 @@ figcaption a:link, figcaption a:visited {
   align-items: flex-start; 
   gap: 2rem; 
   padding: 20px;
+  margin-top:20px;
 }
 
 .introsw aside {
