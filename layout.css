@@ -151,7 +151,7 @@ footer {
 }
 
 .hc-history {
-  width: 65%;
+  width: 50%;
   background: white;
   padding: 2rem;
   border-radius: 10px;
@@ -159,7 +159,7 @@ footer {
 }
 
 .hc-culture {
-  width: 30%;
+  width: 50%;
   background: #f0f0f0;
   padding: 1.5rem;
   border-radius: 10px;
