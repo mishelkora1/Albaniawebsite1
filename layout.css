@@ -378,9 +378,9 @@ figcaption a:link, figcaption a:visited {
 
 
 .photointro {
-    width: 200px;
+    width: 400px;
     border-radius: 10px;
-    margin-left: -30px; 
+    margin-right: 20px; 
     display: block;
-    margin-top: 20px;
+    margin-top: 100px;
 }
