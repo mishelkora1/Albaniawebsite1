@@ -313,6 +313,7 @@ h2 {
   width: 60%;
   font-size: 1.3rem;
   margin-right: -40px;
+  margin-bottom: 0.5rem;
 }
 
 aside {
@@ -324,6 +325,7 @@ aside {
   font-size: 1.1rem;
   width: 60%;
   color: #004080;
+  margin-top: 0;
 }
 
 ul {
@@ -395,7 +397,7 @@ figcaption a:link, figcaption a:visited {
   height: auto;
   display: block;
   margin-top: 100px;
-  margin0-left: 100px;
+  margin-left: 100px;
 }
 
 .main-layout {
