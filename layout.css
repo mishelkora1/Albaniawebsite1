@@ -416,9 +416,17 @@ figcaption a:link, figcaption a:visited {
 .introsw aside {
   width: 250px; 
   margin-left: 1rem; 
+  order: 1;
+  margin-top:2rem;
 }
 
 .introsw > div {
   flex: 1; 
+}
+
+.introsw .intro {
+  width: 60%;
+  font-size: 1.3rem;
+  order: 0;
 }
     
