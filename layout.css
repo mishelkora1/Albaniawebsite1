@@ -329,7 +329,7 @@ aside {
 }
 
 ul {
-  margin-top: 40px;
+  margin-top: 20px;
   font-size: 2rem;
   color: rgb(13, 8, 27);
 }
@@ -396,6 +396,7 @@ figcaption a:link, figcaption a:visited {
   width: 900px;
   height: auto;
   display: block;
+  margin-right:30px;
 }
 
 .main-layout {
